@@ -1,0 +1,6 @@
+[package]
+name = "decimal_binary"
+version = "0.1.0"
+authors = ["Eli Oshinsky <eli@jcn.io>"]
+
+[dependencies]
