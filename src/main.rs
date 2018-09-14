@@ -1,6 +1,6 @@
 use std::env;
 mod to_binary;
-use to_binary::main as to_binary;
+use to_binary::convert as to_binary;
 
 fn main() {
 
